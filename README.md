@@ -1,11 +1,11 @@
-<h1>Hi, I'm Joe! <br/><a href="addgithuburl"> Data Scientist</a>, <a href="addlinkedinurl"> Experienced Banking Professional</a></h1>
+<h1>Hi, I'm Joe! <br/><a href="https://github.com/JoeAchira"> Data Scientist</a>, <a href="www.linkedin.com/in/joe-a-3542a259"> Experienced Banking Professional</a></h1>
 
 <h2>👨‍💻 Data Science Projects:</h2>
 
 - <b>Credit Card Fraud detection model - Supervised and Unsupervised (practice)</b>
-  - [Fraud Modelling](addgithubprojectlink)
+  - [Fraud Modelling](https://github.com/JoeAchira/Projects/blob/main/FraudDetection.ipynb)
 - <b>Banking Outlier Transaction Monitoring (TM) model (practice)</b>
-  - [Transaction Monitoring](addgithubprojectlink)
+  - [Transaction Monitoring](https://github.com/JoeAchira/Projects/blob/main/TransMonitorFC.ipynb)
 
 
 <h2> 🤳 Connect with me:</h2>
