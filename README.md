@@ -12,7 +12,7 @@
 
 [<img align="left" alt="Joe Achira | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[linkedin]: addlinkedInurl
+[linkedin]: www.linkedin.com/in/joe-a-3542a259
 
 
 <!--
