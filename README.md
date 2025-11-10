@@ -7,9 +7,9 @@ Currently trying to apply machine learning and data-driven insights to real-worl
 
 - [Credit Card Fraud Detection](https://github.com/JoeAchira/Projects/blob/main/FraudDetection.ipynb) | Built and compared supervised and unsupervised models to detect fraudulent transactions | Logistic Regression, Isolation Forest, SMOTE, ROC-AUC |
 - [Transaction Monitoring Anomaly Detection](https://github.com/JoeAchira/Projects/blob/main/TransMonitorFC.ipynb) | Designed an unsupervised model for outlier detection in banking transactions | Isolation Forest, DBSCAN, Feature Engineering |
-- [Customer Churn Prediction (University Project)](link_to_repo) | Predicted likelihood of customer churn and key drivers | XGBoost, Feature Importance, SHAP |
-- [Student Dropout Prediction (University Project)](https://github.com/JoeAchira/Neural-Network-prj/blob/main/README.md) | Built an XGBoost model to predict course completion using imbalanced data | XGBoost, Hyperparameter Tuning, ROC-AUC, Stratified K-Fold |
-- [Book Sales Forecasting (Cambridge Project)](link_to_repo) | Forecasted book sales using hybrid SARIMA-LSTM model | Time Series Forecasting, Deep Learning, Model Ensemble |
+- [Customer Marketing Optimisation (Learning Project)](https://github.com/JoeAchira/Segmentation-Prj/blob/main/README.md) | Customer Segmentation for E-Commerce Marketing and Customer Retention Optimisation | Clustering, PCA, Feature Engineering |
+- [Student Dropout Prediction (Learning Project)](https://github.com/JoeAchira/Neural-Network-prj/blob/main/README.md) | Built an XGBoost model to predict course completion using imbalanced data | XGBoost, Hyperparameter Tuning, ROC-AUC, Stratified K-Fold |
+- [Book Sales Forecasting (Learning Project)](https://github.com/JoeAchira/Time-Series-Project/blob/main/README.md) | Forecasted book sales using hybrid SARIMA-LSTM model | Time Series Forecasting, Deep Learning, Model Ensemble |
 
 
 <h2> 🤳 Connect with me:</h2>
