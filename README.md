@@ -1,7 +1,7 @@
 <h1>Hi, I'm Joe!</h1><h2><br/>Data Scientist | Experienced Banking Professional | Fraud & Financial Crime Specialist</h2>
 
 <p>I’m a data scientist with over 10 years’ experience in banking, focusing on fraud prevention, AML, and customer identity.  
-Currently trying to apply machine learning and data-driven insights to real-world financial crime and risk management challenges.</p>
+Currently developing and applying machine learning and data-driven insights to real-world financial crime and risk management challenges.</p>
 
 <h2>👨‍💻 Machine Learning & Analytics Projects:</h2>
 
