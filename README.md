@@ -4,13 +4,26 @@
 Currently developing and applying machine learning and data-driven insights to real-world financial crime and risk management challenges.</p>
 
 <h2>👨‍💻 Machine Learning & Analytics Projects:</h2>
+  
+- [Customer Marketing Optimisation (Learning Project)](https://github.com/JoeAchira/Segmentation-Prj/blob/main/README.md) | Performed customer segmentation using K-Means and PCA to uncover behaviour-based clusters for targeted engagement.
+Delivered actionable insights by profiling each segment and visualising cluster separation with dimensionality reduction.
+  
+- [Student Dropout Prediction (Learning Project)](https://github.com/JoeAchira/Neural-Network-prj/blob/main/README.md) | Predicted student dropout risk using XGBoost on a highly imbalanced dataset, leveraging ROC-AUC optimisation and Stratified K-Fold cross-validation.
+Identified key academic and behavioural drivers using feature importance and model interpretation.
+  
+- [Book Sales Forecasting (Learning Project)](https://github.com/JoeAchira/Time-Series-Project/blob/main/README.md) | Forecasted weekly book sales for The Very Hungry Caterpillar and The Alchemist using statistical (SARIMA) and deep learning (LSTM) models.
+Developed a hybrid ensemble that achieved the best accuracy by combining linear and non-linear pattern learning.
 
-- [Credit Card Fraud Detection](https://github.com/JoeAchira/Projects/blob/main/FraudDetection.ipynb) | Built and compared supervised and unsupervised models to detect fraudulent transactions | Logistic Regression, Isolation Forest, SMOTE, ROC-AUC |
-- [Transaction Monitoring Anomaly Detection](https://github.com/JoeAchira/Projects/blob/main/TransMonitorFC.ipynb) | Designed an unsupervised model for outlier detection in banking transactions | Isolation Forest, DBSCAN, Feature Engineering |
-- [Customer Marketing Optimisation (Learning Project)](https://github.com/JoeAchira/Segmentation-Prj/blob/main/README.md) | Customer Segmentation for E-Commerce Marketing and Customer Retention Optimisation | Clustering, PCA, Feature Engineering |
-- [Student Dropout Prediction (Learning Project)](https://github.com/JoeAchira/Neural-Network-prj/blob/main/README.md) | Built an XGBoost model to predict course completion using imbalanced data | XGBoost, Hyperparameter Tuning, ROC-AUC, Stratified K-Fold |
-- [Book Sales Forecasting (Learning Project)](https://github.com/JoeAchira/Time-Series-Project/blob/main/README.md) | Forecasted book sales using hybrid SARIMA-LSTM model | Time Series Forecasting, Deep Learning, Model Ensemble |
+- [Credit Card Fraud Detection](https://github.com/JoeAchira/Credit_card_anomaly_detection/blob/main/README.md) |
+  Built and compared supervised (XGBoost, Logistic Regression) and unsupervised (Isolation Forest) models for detecting fraudulent transactions in highly imbalanced datasets.
+  Focused on improving recall and ROC-AUC through feature engineering and resampling methods.
+  
+- [Transaction Monitoring Anomaly Detection](https://github.com/JoeAchira/Transaction-Monitoring/blob/main/README.md) |
+  Developed an unsupervised anomaly detection model to flag unusual banking activity for Transaction Monitoring use cases.
+  Used Isolation Forest and clustering techniques to identify behavioural outliers and minimise false positives.
 
+<!-- Customer Churn Prediction | Built a machine learning model to predict customer churn using behavioural and demographic variables.
+Used XGBoost, feature importance, and SHAP analysis to highlight factors driving attrition and support retention strategy. -->
 
 <h2> 🤳 Connect with me:</h2>
 
